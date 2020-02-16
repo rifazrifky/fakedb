@@ -1,33 +1,37 @@
 {
-        "CustomerID": "800868447",
-        "Accounts": [],
-        "Finance": [],
-        "CreditCards": [
-            {
-                "MaskedCardNumber": "413742xxxxxx5920"
-            },
-            {
-                "MaskedCardNumber": "413742xxxxxx0129"
-            },
-            {
-                "MaskedCardNumber": "415656xxxxxx9306"
-            }
-        ],
-        "DebitCards": [
-            {
-                "MaskedCardNumber": "413745xxxxxx9362"
-            },
-            {
-                "MaskedCardNumber": "413745xxxxxx6522"
-            },
-            {
-                "MaskedCardNumber": "413745xxxxxx0112"
-            },
-            {
-                "MaskedCardNumber": "413745xxxxxx4670"
-            },
-            {
-                "MaskedCardNumber": "413745xxxxxx3924"
-            }
-        ]
-    }
+	"customer":[
+		{
+			"CustomerID": "800868447",
+			"Accounts": [],
+			"Finance": [],
+			"CreditCards": [
+				{
+					"MaskedCardNumber": "413742xxxxxx5920"
+				},
+				{
+					"MaskedCardNumber": "413742xxxxxx0129"
+				},
+				{
+					"MaskedCardNumber": "415656xxxxxx9306"
+				}
+			],
+			"DebitCards": [
+				{
+					"MaskedCardNumber": "413745xxxxxx9362"
+				},
+				{
+					"MaskedCardNumber": "413745xxxxxx6522"
+				},
+				{
+					"MaskedCardNumber": "413745xxxxxx0112"
+				},
+				{
+					"MaskedCardNumber": "413745xxxxxx4670"
+				},
+				{
+					"MaskedCardNumber": "413745xxxxxx3924"
+				}
+			]
+		}
+	]
+}
